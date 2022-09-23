@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rameneapps/data_foto.dart';
+import 'package:rameneapps/data/data_foto.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
